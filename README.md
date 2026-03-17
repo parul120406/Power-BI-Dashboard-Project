@@ -55,7 +55,3 @@ Some of the key insights derived from this dashboard include:
 This project demonstrates how data visualization can simplify complex datasets and help in making informed decisions.
 
 ---
-
-(You can add LinkedIn/GitHub profile link here)
-
----
